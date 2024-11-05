@@ -1,5 +1,5 @@
 
 .DS_Store
-./result
-./LSH_param_results
-./full_dataset
+./result/
+./LSH_param_results/
+./full_dataset/
