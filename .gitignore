@@ -1,2 +1,5 @@
 
 .DS_Store
+./result
+./LSH_param_results
+./full_dataset
